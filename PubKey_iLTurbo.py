@@ -1,3 +1,6 @@
+#!/usr/bin/python
+# https://github.com/ilturbo
+
 import binascii
 
 with open('PubKey_02compressed.txt') as f:
