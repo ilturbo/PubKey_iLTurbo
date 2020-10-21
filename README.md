@@ -22,3 +22,28 @@ chmod +x PubKey_iLTurbo.py
 Enjoy the process!
 
 The result of the uncompressed public keys will be saved to the file: PubKey_04uncompressed.txt
+
+
+
+# Contact me:
+
+https://t.me/il_turbo
+https://vk.com/ilturbo
+https://github.com/ilturbo
+
+# Make an order with me:
+
+https://fiverr.com/ilturbo
+https://kwork.ru/user/ilturbo
+
+# My video reviews:
+
+https://vimeo.com/ilturbo
+https://www.youtube.com/channel/UCmR90RWtQftmkH-xrVfU_HQ/videos
+
+
+
+
+
+
+
